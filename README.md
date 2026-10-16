@@ -15,15 +15,15 @@ Read, organize and download your library, install content extensions, and keep e
 
 | Home | Library |
 | :---: | :---: |
-| ![Home](docs/screenshots/home.png) | ![Library](docs/screenshots/library.png) |
+| ![Discover](https://github.com/xNightStar0/Komic/blob/main/screenshots/Discover.png) | ![Library](https://github.com/xNightStar0/Komic/blob/main/screenshots/Libarary.png) |
 
 | Reader | Discover |
 | :---: | :---: |
-| ![Reader](docs/screenshots/reader.png) | ![Discover](docs/screenshots/discover.png) |
+| ![Reader](https://github.com/xNightStar0/Komic/blob/main/screenshots/reader.png) | ![Anilist](https://github.com/xNightStar0/Komic/blob/main/screenshots/Anilist.png) |
 
 | Extensions | Settings |
 | :---: | :---: |
-| ![Extensions](docs/screenshots/extensions.png) | ![Settings](docs/screenshots/settings.png) |
+| ![Extensions](https://github.com/xNightStar0/Komic/blob/main/screenshots/extensions.png) | ![Settings](https://github.com/xNightStar0/Komic/blob/main/screenshots/Settings.png) |
 
 
 ---
